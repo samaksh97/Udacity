@@ -24,10 +24,9 @@ For this project, I was interestested in using Stack Overflow data from 2020 to 
 
 File Descriptions
 There is one notebook available here to showcase work related to the above questions. This notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
-Data files : Download
 
 Results
-The main findings of the code can be found at the Medium post available here.
+The main findings of the code can be found at the Medium post available here at : https://samakshdatageek.medium.com/analyzing-2020-stack-overflow-survey-using-a-crisp-dm-process-a97e0fe8ea88
 
 Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
